@@ -17,12 +17,18 @@ The Class Attendance System is designed to operate within the following paramete
 3.	Administrator Functionality: Administrators can access the system after class sessions to verify the attendance records of all students for the day.
 4.	Secure Authentication: Robust authentication mechanisms are in place to ensure the privacy and security of user accounts.
 5.	Seamless Interaction: The application fosters a seamless and intuitive user experience, enabling swift attendance marking and verification processes.
-# Document Structure:
-This document comprises the following sections:
-1.	Organization: An overview of the entities involved in the software development project.
-2.	Specifications: A detailed outline of the technical specifications that guide the application's development.
-3.	Conception: A comprehensive conceptual framework that illustrates the application's architecture and core features.
-4.	Verification Tests: Rigorous testing procedures that validate the functionality and performance of the application.
-#	Scope
+# Screen Shoots
+| Login Page    | Login Page     |
+| ------------- |:-------------:|
+| <img src="https://github.com/umarbrowser/Attendify/blob/main/screen_shots/WhatsApp%20Image%202023-08-27%20at%202.57.43%20PM.jpeg" width="300">  | <img src="https://github.com/umarbrowser/Attendify/blob/main/screen_shots/Screenshot_2023-08-27-12-18-39-625_com.pyc0d3r.classattendanceprototype.jpg" width="300">    | 
+| Student Home Page    | Student Home Page   |
+| <img src="https://github.com/umarbrowser/Attendify/blob/main/screen_shots/WhatsApp%20Image%202023-08-27%20at%202.57.43%20PM%20(1).jpeg" width="300">  | <img src="https://github.com/umarbrowser/Attendify/blob/main/screen_shots/Screenshot_2023-08-27-12-19-01-822_com.pyc0d3r.classattendanceprototype.jpg" width="300">    | 
+| Student Marked Page   | Student Marked Page     |
+| <img src="https://github.com/umarbrowser/Attendify/blob/main/screen_shots/WhatsApp%20Image%202023-08-27%20at%202.57.43%20PM%20(2).jpeg" width="300">  | <img src="https://github.com/umarbrowser/Attendify/blob/main/screen_shots/Screenshot_2023-08-27-12-19-12-012_com.pyc0d3r.classattendanceprototype.jpg" width="300">    | 
+| Admin Home    | Admin Home    |
+| <img src="https://github.com/umarbrowser/Attendify/blob/main/screen_shots/WhatsApp%20Image%202023-08-27%20at%202.57.44%20PM.jpeg" width="300">  | <img src="https://github.com/umarbrowser/Attendify/blob/main/screen_shots/Screenshot_2023-08-27-12-19-25-032_com.pyc0d3r.classattendanceprototype.jpg" width="300">    | 
+
+
+
 •	The Class Attendance System only covers Course 401, Software Engineering Class Attendance of Gombe State University, Faculty of Science, Department of Computer Science
 •	It is built for only Group 3 Members of Cosc 401 Class
