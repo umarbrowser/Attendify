@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Attendify</string>
+    <string name="title_activity_student_home">StudentHome</string>
+    <string name="title_activity_student_mark">StudentMark</string>
+    <string name="title_activity_admin">AdminActivity</string>
+</resources>
