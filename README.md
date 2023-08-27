@@ -1,6 +1,8 @@
 # Attendify - Attendance Management System 
-The Class Attendance System only covers Course 401, Software Engineering Class Attendance of Gombe State University, Faculty of Science, Department of Computer Science
-COURSE LECTURER: ASSOC. PROF. BALA MODI
+The Class Attendance System only covers Course 401, Software Engineering Class Attendance of Gombe State University, Faculty of Science, Department of Computer Science.
+
+## COURSE LECTURER: [ASSOC. PROF. BALA MODI](https://gsu.edu.ng/home/ict-directorate/)
+
 The project's overarching goals encompass the development of a robust Android application that accommodates the unique requirements of students and lecturers. The specific objectives are as follows:
 1.	Android Application Development: Craft an Android application that facilitates class attendance management with a user-friendly interface.
 2.	Student Login: Enable students to access the application through their registration credentials.
