@@ -17,7 +17,7 @@ The Class Attendance System is designed to operate within the following paramete
 3.	Administrator Functionality: Administrators can access the system after class sessions to verify the attendance records of all students for the day.
 4.	Secure Authentication: Robust authentication mechanisms are in place to ensure the privacy and security of user accounts.
 5.	Seamless Interaction: The application fosters a seamless and intuitive user experience, enabling swift attendance marking and verification processes.
-# Screen Shoots
+# Screen Shots
 | Login Page    | Login Page     |
 | ------------- |:-------------:|
 | <img src="https://github.com/umarbrowser/Attendify/blob/main/screen_shots/WhatsApp%20Image%202023-08-27%20at%202.57.43%20PM.jpeg" width="300">  | <img src="https://github.com/umarbrowser/Attendify/blob/main/screen_shots/Screenshot_2023-08-27-12-18-39-625_com.pyc0d3r.classattendanceprototype.jpg" width="300">    | 
